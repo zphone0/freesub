@@ -18,7 +18,7 @@ proxies:
   udp: true
   type: hysteria2
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  sni: css.rbxcdn.com
+  sni: vk.com
   skip-cert-verify: true
 - name: 🇦🇺 澳大利亚 (Australia) 03 - xiaohe
   server: 103.75.119.126
@@ -34,7 +34,7 @@ proxies:
   port: 20270
   udp: true
   type: vless
-  uuid: 5416ef6f-b8e5-48e9-87e4-3d5649b2e3e0
+  uuid: 8da6f662-e36b-4eff-99f9-43a842911707
   flow: xtls-rprx-vision
   tls: true
   reality-opts:
